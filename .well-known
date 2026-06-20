@@ -1,0 +1,11 @@
+{
+  "node_id": "your-domain.example",
+  "base_url": "https://your-domain.example",
+  "categories": ["demo", "internet"],
+  "capabilities": {
+    "search": true
+  },
+  "performance": {
+    "timeout_ms": 1200
+  }
+}
