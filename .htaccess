@@ -1,0 +1,5 @@
+# Litter Layer federation node — route /search to search.php
+# If you already have a .htaccess file, paste these lines into it instead of replacing the whole file.
+
+RewriteEngine On
+RewriteRule ^search$ search.php [L,QSA]
