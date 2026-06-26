@@ -3,3 +3,4 @@
 
 RewriteEngine On
 RewriteRule ^search$ search.php [L,QSA]
+RewriteRule ^crawl_tick$ crawl_tick.php [L,QSA]
